@@ -1,0 +1,12 @@
+{
+  "name": "gaoReactNAtive",
+  "displayName": "gaoReactNAtive",
+  "expo": {
+    "name": "gaoReactNAtive",
+    "slug": "gaoReactNAtive",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
